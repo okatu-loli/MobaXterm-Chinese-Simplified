@@ -2,6 +2,8 @@
 
 本项目提供了 MobaXterm Professional Edition 的简体中文翻译文件，旨在用于学习交流。请注意，不得将本项目用于任何违法用途，相关责任由使用者承担。
 
+![screenshot](./screenshot.png)
+
 ## 使用说明
 
 1. 下载 `MobaXterm.exe` 文件。
